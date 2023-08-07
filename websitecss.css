@@ -1,0 +1,128 @@
+body{
+    background-image: url("img1.jpg");
+    background-repeat: no-repeat;
+    background-color: grey;
+}
+
+
+nav.top{
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+        
+   
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
+nav.middle{
+    text-align: center;
+    color:green;
+}
+
+a.navi{
+    
+    font-size: 10px;
+    text-decoration:none;
+    text-align: right;
+    
+    color:whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+a.navii{
+    font-size: 15px;
+    text-decoration: underline;
+    color: whitesmoke;
+    background-color:green;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    color: green;
+    
+}
+div.mid{
+    background-color: green;  
+    height: 30px;  
+}
+div.smid{
+    text-align: center;
+    background-color: green;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+img.main{
+    height: 300px;
+    width: 300px;
+    text-align: left;
+}
+img.smain{
+    height: 300px;
+    width: 300px;
+    text-align: right;
+}
+img.second{
+    height: 150px;
+    width: 200px;
+}
+
+table.products{
+    opacity: 85%;
+    background-color:green;
+    border: 5px solid black;
+    float: center;
+    
+}
+tr.prod{
+    width: 40px;
+}
+div.product{
+    background-color:green;
+    float: center;
+    text-align: center;
+    opacity: 85%;
+} 
+button.product{
+    color: green;
+    background-color: green;
+    float: right;
+    border-radius: 12px;
+}
+
+img.blog{
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+button.home{
+    color: green;
+    background-color: green;
+    float: right;
+    border-radius: 12px;
+}
+table.contact{
+    
+    background-color:grey;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+button.contact{
+    float: right;
+    border-radius: 12px;
+}
+img.search{
+    width: 25px;
+    height: 25px;
+}
